@@ -4107,3 +4107,336 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01May2025 02:07:14.795] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [01May2025 02:08:24.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01May2025 02:08:24.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 02:09:20.428] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/frog_statue2
+[01May2025 02:09:54.351] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=114, y=-23, z=87}
+[01May2025 02:09:54.365] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=124, y=-23, z=87}
+[01May2025 02:10:52.800] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_trap_2
+[01May2025 02:13:24.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 02:13:24.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 02:15:37.908] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_enterance1
+[01May2025 02:15:46.960] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_camp/illager_camp_event_3
+[01May2025 02:15:46.960] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01May2025 02:15:46.960] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01May2025 02:15:46.960] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01May2025 02:15:46.960] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01May2025 02:15:48.320] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3
+[01May2025 02:15:48.342] [Worker-Main-20/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1 is being run through DFU (hash b8b12295d93b5da172231e437ecb527d00901657537eae5a5a30d6f971865780), this will cause launch time delays
+[01May2025 02:15:48.564] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0
+[01May2025 02:15:48.571] [Worker-Main-20/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_phantom_rider_0 is being run through DFU (hash ca9e0e2b70f65a0980baf59dd19382a9724c1e1907fbe9eb6c9609ec1393c020), this will cause launch time delays
+[01May2025 02:15:48.654] [Worker-Main-20/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_1 is being run through DFU (hash d67860fa6b5fe80aa150cb9dc672a43b2c2eb9955b89cc04679792b2d3145ca4), this will cause launch time delays
+[01May2025 02:15:48.663] [Worker-Main-20/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_mounted_0 is being run through DFU (hash e2ac74f2492c7f2ca3db9a33497751cab9c13ed04d32afc18dc39b3619361e78), this will cause launch time delays
+[01May2025 02:15:48.694] [Worker-Main-20/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2 is being run through DFU (hash 40b15fe9c80a15adfc4f38946177cfa77d41454b5c5095aa4b33741140c3987c), this will cause launch time delays
+[01May2025 02:15:48.807] [Worker-Main-20/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_0 is being run through DFU (hash d67860fa6b5fe80aa150cb9dc672a43b2c2eb9955b89cc04679792b2d3145ca4), this will cause launch time delays
+[01May2025 02:15:55.357] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_center
+[01May2025 02:15:55.365] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_tower_3 is being run through DFU (hash b78fc2159163a619f10ab52f98944d86ba80da6ee553a94fda266fb534abc508), this will cause launch time delays
+[01May2025 02:15:55.366] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_medium_4 is being run through DFU (hash 94a8f2d5a2f985532083e7ac7c3f68284e9c4121e9270f6f055bf10b0ceb9f04), this will cause launch time delays
+[01May2025 02:15:55.367] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_road_4 is being run through DFU (hash beca7d62e223f9f7e4ab0e8f07f65e2bc46ce0eaca2b1eac70a7e620b4c19be3), this will cause launch time delays
+[01May2025 02:15:55.376] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_t_house_4 is being run through DFU (hash a7006551e0460dd2f7ac5b08cecd2453b02d5d41282fba93aff94433642fe7a5), this will cause launch time delays
+[01May2025 02:15:55.378] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_l_house is being run through DFU (hash c8286047b0cf9be7076bc19d79e40654ea3c404f48239eaeac753a9f49466907), this will cause launch time delays
+[01May2025 02:15:55.383] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_large_3 is being run through DFU (hash d642f76edccf685c21461da607a339fce2afa6eb26b0254db5fa5a8c80e7833f), this will cause launch time delays
+[01May2025 02:15:55.385] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_road_1 is being run through DFU (hash 52c6db74aa375bb51e141ddbc09254783a923903fc0ebc08007b1f1524484ffe), this will cause launch time delays
+[01May2025 02:15:55.393] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_small_4 is being run through DFU (hash 9fd2b5e583893281548007c210c519866edb8452f2b60c66bb6b5a33433ef772), this will cause launch time delays
+[01May2025 02:15:55.395] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_medium is being run through DFU (hash 03364baa8db2ae180dbd6404a1cf4bace0d43d542a287790da32285e726ae728), this will cause launch time delays
+[01May2025 02:15:55.399] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_empty is being run through DFU (hash 3d5620a6aa116545c6bd611bac50ef67902431145f61fe34719afeeec2a16d7f), this will cause launch time delays
+[01May2025 02:15:55.399] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_road_8 is being run through DFU (hash 1ae28090e00b43b6d166e69806563589769cf6c92f1f4ee714e954ce6350b99f), this will cause launch time delays
+[01May2025 02:15:55.407] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_large_slim_3 is being run through DFU (hash 7c106df06b164c6a4b379f8e31ad857a0e51f8aee22a878494d7841678c1ce81), this will cause launch time delays
+[01May2025 02:15:55.409] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_road_2 is being run through DFU (hash 3b5c41c69da61f668740acf5ca25d915c6e5a59f84fafa5597e33fb1b0106e3a), this will cause launch time delays
+[01May2025 02:15:55.417] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_l_house_5 is being run through DFU (hash 7c9721777e22779a015e1d53db134be9405c8415d38992b01ca9d5d28339297c), this will cause launch time delays
+[01May2025 02:15:55.417] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_road_5 is being run through DFU (hash 93ebbe4d1fa19d3f049fe1a0a41fb6617a7763b83541d6f297056874bbeef8d1), this will cause launch time delays
+[01May2025 02:15:55.425] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_large_slim_2 is being run through DFU (hash f33e8dc9638d489507c0a3f35dd8c206f426749ffbe08cd325438be54fd9fa45), this will cause launch time delays
+[01May2025 02:15:55.427] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_7 is being run through DFU (hash 23b582e18f6e79393fa721def41d7838f7c86a35cd015bbffc9fa321ca36e16d), this will cause launch time delays
+[01May2025 02:15:55.436] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_outpost is being run through DFU (hash 8c578abca8a93ffc4fae5629a4a35a15658e0533c7922edaa8f721849d8da1a7), this will cause launch time delays
+[01May2025 02:15:55.440] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_tower_4 is being run through DFU (hash b34da0d7c8711255d7703bbf2f0a58bdbabd0b07f881c6e6df824b82eccffd5a), this will cause launch time delays
+[01May2025 02:15:55.442] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_outpost_3 is being run through DFU (hash ef1fdbe925d4d315fb6770d51f40fa1bfe8a6e0d6f7fabf263260193ae62fcfa), this will cause launch time delays
+[01May2025 02:15:55.444] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_large_slim_5 is being run through DFU (hash e77ed20656e97946d32b54d5beb2ef31d7ce438c8e5227ebef772bf1a04d3643), this will cause launch time delays
+[01May2025 02:15:55.446] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_small_tower_1 is being run through DFU (hash a589d52cb0cba59d7edee89fd60a87a1f33fb998d48abb4e7e49a41577fa2e5c), this will cause launch time delays
+[01May2025 02:15:55.447] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_l_house_4 is being run through DFU (hash 6a9cbe3c4d635875ce03a8c96ffcf9fecc9d5047ae7a91c8525de5447c399e40), this will cause launch time delays
+[01May2025 02:15:55.448] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_road_3 is being run through DFU (hash 74ed2768cb53e1a5ca4361aad671a5b43f3853a9dc0ab24bf4f2ba284d05ed6c), this will cause launch time delays
+[01May2025 02:15:55.450] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_medium_slim is being run through DFU (hash 2940975dafc83c6bd27c1399b93a5c5bbc5cfe951b84af6055ce380852d9d6c9), this will cause launch time delays
+[01May2025 02:15:55.453] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_medium_slim_5 is being run through DFU (hash 1df2042c80b441fd020d34632676c3b29ab30c688dda13ce8f86fae880c35fa9), this will cause launch time delays
+[01May2025 02:15:55.454] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_20 is being run through DFU (hash 29bc2bd80e64e08806bad193fcd3591f9ab3384916653cf2336b06571d300284), this will cause launch time delays
+[01May2025 02:15:55.457] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_small_tower_5 is being run through DFU (hash 0a7161641d383c7181b33bfd2d4a6a70fc1e4097df8fbfeade4e3cf27aa4ce7a), this will cause launch time delays
+[01May2025 02:15:55.459] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_21 is being run through DFU (hash 0b1dfc3787c8d11a2f44b9f4578b57ba0679ea7531d25315f50b77650ee59004), this will cause launch time delays
+[01May2025 02:15:55.460] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_medium_1 is being run through DFU (hash 1ff03fc1aedf97f2a6950a13924a2d21c53f6936bc5813db23c691a09e36f72f), this will cause launch time delays
+[01May2025 02:15:55.461] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_1 is being run through DFU (hash ebe0f1da1972390264efdcab1087f8ceaf107a1eaeed7fca95043a1a90e9864a), this will cause launch time delays
+[01May2025 02:15:55.464] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_large_4 is being run through DFU (hash 3c8ea0fe15d580bb4cbd1dbd1773dd8ec6bd960469fc775729da562d03dbfdbe), this will cause launch time delays
+[01May2025 02:15:55.466] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_tower_5 is being run through DFU (hash 9b4a943af6c6ffd83ffad60624f542a96ab46c2fcf1c3c659f621a2bdf719101), this will cause launch time delays
+[01May2025 02:15:55.468] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_medium_slim_2 is being run through DFU (hash 92f46e642eb3fa5000c2185081b5a285a58e06398e333ac629c3836c6d8650e4), this will cause launch time delays
+[01May2025 02:15:55.469] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_2 is being run through DFU (hash 7d9fd74ce606a22fecd1c89b433ad0989e25e1dfb86f999580a6ce8fe500e7db), this will cause launch time delays
+[01May2025 02:15:55.471] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_large is being run through DFU (hash 06b60fc98f0be0d09d37ea702ab6c727179325679d19dcc46f1d3f60951d40f9), this will cause launch time delays
+[01May2025 02:15:55.477] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_medium_5 is being run through DFU (hash 905f2f0d6d72b14313d5b1699a3c289497c1763769954c30a3fee52973206118), this will cause launch time delays
+[01May2025 02:15:55.479] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_small_3 is being run through DFU (hash 33f0af3b0db5840134be4d0702fb74f078d02adb3940d9e2cc92ed6bea4f04e1), this will cause launch time delays
+[01May2025 02:15:55.480] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_t_house_5 is being run through DFU (hash 8e6108f3fdb7f5770f7e938f346fbf6eef74bc15faff52c43d9a049224cf89be), this will cause launch time delays
+[01May2025 02:15:55.482] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_l_house_2 is being run through DFU (hash b08a85186699eee8f1958cc5ca1649d3052d73fbeea59ee87fcaf92b450c5138), this will cause launch time delays
+[01May2025 02:15:55.483] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_outpost_5 is being run through DFU (hash 13a7fe8579917185f5501111b293fe25de153058eacfe12a5005aeb50ac8599e), this will cause launch time delays
+[01May2025 02:15:55.486] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_large_5 is being run through DFU (hash d952e6bf5d9292c6d771cef74063dce322f27aa2c3a6ccff100b4824a39e464f), this will cause launch time delays
+[01May2025 02:15:55.489] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_13 is being run through DFU (hash 706068fde452059a068e5ff8ccb7d79fa2e0bfaadb9d7c742d409193457ce07d), this will cause launch time delays
+[01May2025 02:15:55.491] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_road_6 is being run through DFU (hash 7657f8a79085bfdfb6d5dbee04b7a2b911f27b8faa8b1e4ecd4e4aac5a58d4c1), this will cause launch time delays
+[01May2025 02:15:55.492] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_17 is being run through DFU (hash ce159ddc7dcba3bceead1d71c28338d80d4d890de49dd6b47003f984d312cb46), this will cause launch time delays
+[01May2025 02:15:55.493] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_road_7 is being run through DFU (hash dc4980b98509a090d793fabc4499e8df4a6563f84a66e8c36bf8b2f365d12756), this will cause launch time delays
+[01May2025 02:15:55.494] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_tower_2 is being run through DFU (hash cf5d67f7a02bd09ee1e94370183ac992eaf7c45d619f159606970b76d913ff87), this will cause launch time delays
+[01May2025 02:15:55.497] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_small_1 is being run through DFU (hash 1751fc780f76f7a1fb06e68eac2574bdce1ceb62f06b056a64b457a0145ad76a), this will cause launch time delays
+[01May2025 02:15:55.497] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_10 is being run through DFU (hash 39ebe096908e2bc469f48f208cf7555d70c1677bab645920d57fb6f2aea6b26f), this will cause launch time delays
+[01May2025 02:15:55.499] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_15 is being run through DFU (hash 4893421babde7374fbd5d60255549c923c0a9f7c214a457e650b4e13590aaf9c), this will cause launch time delays
+[01May2025 02:15:55.500] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_12 is being run through DFU (hash 54138746de20dfe696954c4358f659a8a4a50db6a9998154a74a4066972f256e), this will cause launch time delays
+[01May2025 02:15:55.502] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_9 is being run through DFU (hash 240ebfbed205c18201eb326dd7a594136361184386d823f2fbd0ec6afc1ec581), this will cause launch time delays
+[01May2025 02:15:55.503] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_outpost_4 is being run through DFU (hash 4c424534796efc0f20a9d09e38ae99330312516c5cbea6f187b6e7aeb69e2a3e), this will cause launch time delays
+[01May2025 02:15:55.505] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_19 is being run through DFU (hash afa42ccb7d66e7f7a4eac1e32fb5248c8a21bbe17459f24b5399078b0b370a42), this will cause launch time delays
+[01May2025 02:15:55.506] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_medium_slim_4 is being run through DFU (hash 2198f8b75ac7eb090320d1008eae7049a4d5ff416a338bc36d09396935b8a344), this will cause launch time delays
+[01May2025 02:15:55.507] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_4 is being run through DFU (hash 5115ee0146af20a9e49851f5c8b94d821d7033127ffd0ec05bc083220619f50e), this will cause launch time delays
+[01May2025 02:15:55.508] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_8 is being run through DFU (hash f36e5c560314c329851bf7fb8f40b2efc8ea3cf07d17bdc1aa66ffa88db14d70), this will cause launch time delays
+[01May2025 02:15:55.509] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_medium_slim_3 is being run through DFU (hash 33c1bf17f80a5f493dfeacdd82df6850ba6c7865dbf7f1a19da03392cd617d31), this will cause launch time delays
+[01May2025 02:15:55.510] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_6 is being run through DFU (hash f85c91c931cbb732092a946915977b7bd4d8c4443d027df89952723c6557e279), this will cause launch time delays
+[01May2025 02:15:55.511] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_14 is being run through DFU (hash 4d6e64cb6e12b2447852fa5d0160c132a4416973a8ab4b4e0d5f212cd38c5622), this will cause launch time delays
+[01May2025 02:15:55.513] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_medium_2 is being run through DFU (hash f7f2d0c378f805731063cf8752d37a54f70f6952a288a97de062d58f50ffdb0c), this will cause launch time delays
+[01May2025 02:15:55.514] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_small_tower_3 is being run through DFU (hash 1003987ba9bfdadda8960ed2ef116f709e8c256bdef93916eee761097396e434), this will cause launch time delays
+[01May2025 02:15:55.515] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_3 is being run through DFU (hash 96f4e8d712bcc6c77dfdf866acd9c647beeb4b88c8a4e0dc478e005375bfcd32), this will cause launch time delays
+[01May2025 02:15:55.518] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_small_2 is being run through DFU (hash 92bab52d7fb8f74133756efdbd4a81049468e4959507fcde393b2f91bfb5be53), this will cause launch time delays
+[01May2025 02:15:55.519] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_t_house_2 is being run through DFU (hash 61a9320d58e8312070f19b70bcef026098b6b98a9ebcbfd28fa9177a4be27d7b), this will cause launch time delays
+[01May2025 02:15:55.521] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_t_house_3 is being run through DFU (hash cfb44ec61e990763031338b35d6d55d0e8a2535c1b112a2bb4c364a0c3420183), this will cause launch time delays
+[01May2025 02:15:55.523] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_large_2 is being run through DFU (hash 80500ce0a2bb4e767cc2ee4a2142caef25d3a34af1a43ad2751da6900b27c120), this will cause launch time delays
+[01May2025 02:15:55.526] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_t_house_1 is being run through DFU (hash f0ad275f62c5175770350cf6cf5aa4db63e0a0352e15166099d26c234baa5425), this will cause launch time delays
+[01May2025 02:15:55.527] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_l_house_3 is being run through DFU (hash 688a98ba01637e27794c2ceb487a654b1fd2e9ffc9cea8fc97372828e5cc0d00), this will cause launch time delays
+[01May2025 02:15:55.529] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_small_tower is being run through DFU (hash fb7879c91efa9d3488208f3181cb816844b3bfc73980946128a7f34e6c933bf8), this will cause launch time delays
+[01May2025 02:15:55.532] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_large_slim_1 is being run through DFU (hash 40084463b3e5a276e3db2f56b415cf5036b028cca4cc295250d767d829b41fa8), this will cause launch time delays
+[01May2025 02:15:55.534] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_small_tower_4 is being run through DFU (hash da084e4f15771b035204bddea9ff218ca60681e4a18a1927f0903b6ac1e591da), this will cause launch time delays
+[01May2025 02:15:55.536] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_18 is being run through DFU (hash c19a75baeacd2eaf82ec7c601a60ff2f2f0aaf8931927c08e5a8fecfd599c9ff), this will cause launch time delays
+[01May2025 02:15:55.537] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_medium_slim_1 is being run through DFU (hash a33209851840359973acf0c8662e6605aa3346db82cae632b5c8539b682ebc05), this will cause launch time delays
+[01May2025 02:15:55.538] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_16 is being run through DFU (hash ae5ef777aac76587e6294cd187d7cc8e0fb1f4bc57eeab385461dd268b15f1bc), this will cause launch time delays
+[01May2025 02:15:55.540] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_outpost_1 is being run through DFU (hash 41107833b0a346350a4d54b558632f2917ca74e47d583a984d472465763a0183), this will cause launch time delays
+[01May2025 02:15:55.542] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_medium_3 is being run through DFU (hash f92a7ea12e7f0352127b844d731ffb0c56ff327469121891e6f3b917b4d24c46), this will cause launch time delays
+[01May2025 02:15:55.543] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_small_tower_2 is being run through DFU (hash 4956923b274df5126b14339842d6ae0e054d53c713d637ff3fb2cc2f59c2d9c4), this will cause launch time delays
+[01May2025 02:15:55.545] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_large_slim_4 is being run through DFU (hash b0ea645bf64a07b18262d67cf3dc6646b060441d58a234c5a13e22010cccd003), this will cause launch time delays
+[01May2025 02:15:55.547] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_large_1 is being run through DFU (hash 2f994234aec999f8d42d9357760c19a69b902c5a2c5ae81bd31471f30ba99006), this will cause launch time delays
+[01May2025 02:15:55.550] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_5 is being run through DFU (hash a311451caa89bda519bc46e986aea1325a2956e15045f207d68baff826b4faf2), this will cause launch time delays
+[01May2025 02:15:55.551] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_11 is being run through DFU (hash 50e4e5904972f299b7ea4c3fc48889565813a26793b19129dcc2a623250744ec), this will cause launch time delays
+[01May2025 02:15:55.552] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_l_house_1 is being run through DFU (hash d9417a528de46b68aee8443939d96b765b5b5c3ac2bd5be636c5534c83997ab9), this will cause launch time delays
+[01May2025 02:15:55.554] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_outpost_2 is being run through DFU (hash 9a83e45e2370fbf507cec66bd5f59bfc55d88f13c8d01b824e2029f651a6a4e6), this will cause launch time delays
+[01May2025 02:15:55.556] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_tower_1 is being run through DFU (hash 886572e776725c8939732657d2b5af61d489c203d744f5b03de63e0f6ca5976f), this will cause launch time delays
+[01May2025 02:15:56.635] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_pillar_2 is being run through DFU (hash 3a808d9a81c6d5c8bc02cc1d37e41dae2b6a2d88a35b9874266e1ea4dbf4db94), this will cause launch time delays
+[01May2025 02:15:56.636] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_wall_1 is being run through DFU (hash d55048b03fc016f87f3dba607ab537280263ee0b8eaed3efa3e53aac77bc251d), this will cause launch time delays
+[01May2025 02:15:56.637] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_wall_4 is being run through DFU (hash ea05db11cd93dc8f31985940fd7b2605a174c35f8cfc8c521d35dd36b464efe0), this will cause launch time delays
+[01May2025 02:15:56.637] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_wall_3 is being run through DFU (hash 7629e0bc7e01768a0ba187ab9982f1a193fd53d4d7c8a45b9c82b27ff10a73c6), this will cause launch time delays
+[01May2025 02:15:56.638] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_pillar_3 is being run through DFU (hash a3048c8929704aeab713d41351837e6a0a9fb827275c34d4e17c62c5fa5ed9a1), this will cause launch time delays
+[01May2025 02:15:56.639] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_pillar_4 is being run through DFU (hash 7be86257bbc27e208fffe3c48773c0c24ca3f66db6703e551c93e532d3f4c43f), this will cause launch time delays
+[01May2025 02:15:56.639] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_wall_2 is being run through DFU (hash a4d0288b203a603ac38656ecc734ca363c25e507ca9fd769248a387f8f930260), this will cause launch time delays
+[01May2025 02:15:56.640] [Worker-Main-29/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_pillar_1 is being run through DFU (hash 3b8965bcb54b0b8d64a9e3a2bf7a03fd34b5e5da89fb99f199c702b80bd8958d), this will cause launch time delays
+[01May2025 02:15:57.743] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of structory:decoration/jungle_well
+[01May2025 02:16:00.636] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ring1
+[01May2025 02:16:07.256] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[01May2025 02:16:07.278] [Worker-Main-20/DEBUG] [ModernFix/]: Structure dungeons_arise:coliseum/coliseum_part_1 is being run through DFU (hash 27a5819e089e69b638f99afa4b0105b5b46d21c207dbe76709c0e743455e5fc5), this will cause launch time delays
+[01May2025 02:16:07.342] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_2
+[01May2025 02:16:07.357] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[01May2025 02:16:07.386] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_1
+[01May2025 02:16:07.407] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[01May2025 02:16:07.426] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_1
+[01May2025 02:16:14.158] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/statue1
+[01May2025 02:16:26.931] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector3
+[01May2025 02:16:26.939] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/house3
+[01May2025 02:16:26.946] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/castle1
+[01May2025 02:16:26.947] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/doorway
+[01May2025 02:16:26.947] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_tabletwall
+[01May2025 02:16:26.962] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_castle_small
+[01May2025 02:16:26.975] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector5
+[01May2025 02:16:29.590] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_2
+[01May2025 02:16:40.746] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_8 is being run through DFU (hash aa2afa2d5de66cead416df85ea4a32fc04854c642105d5d8b3e50e03ba56d1a1), this will cause launch time delays
+[01May2025 02:16:48.274] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_camp/illager_camp_event_1
+[01May2025 02:16:48.275] [Worker-Main-29/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01May2025 02:16:48.275] [Worker-Main-29/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01May2025 02:16:48.275] [Worker-Main-29/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01May2025 02:16:48.275] [Worker-Main-29/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01May2025 02:16:55.700] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool2
+[01May2025 02:16:55.715] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_3
+[01May2025 02:16:58.065] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_spruce
+[01May2025 02:16:58.066] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_dark_oak
+[01May2025 02:16:58.066] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_jungle
+[01May2025 02:16:58.067] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_jungle
+[01May2025 02:16:58.067] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_acacia
+[01May2025 02:16:58.067] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_dark_oak
+[01May2025 02:16:58.068] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_birch
+[01May2025 02:16:58.068] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_desert
+[01May2025 02:16:58.068] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_desert
+[01May2025 02:16:58.069] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_dark_oak
+[01May2025 02:16:58.069] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_cherry
+[01May2025 02:16:58.069] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_swamp
+[01May2025 02:16:58.070] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_cherry
+[01May2025 02:16:58.070] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_spruce
+[01May2025 02:16:58.071] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_mangrove
+[01May2025 02:16:58.071] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_birch
+[01May2025 02:16:58.071] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_spruce
+[01May2025 02:16:58.072] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_oak
+[01May2025 02:16:58.072] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_dark_oak
+[01May2025 02:16:58.073] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_swamp
+[01May2025 02:16:58.074] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_swamp
+[01May2025 02:16:58.074] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_birch
+[01May2025 02:16:58.074] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_dark_oak
+[01May2025 02:16:58.075] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_dark_oak
+[01May2025 02:16:58.075] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_mangrove
+[01May2025 02:16:58.075] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_mangrove
+[01May2025 02:16:58.076] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_desert
+[01May2025 02:16:58.076] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_swamp
+[01May2025 02:16:58.077] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_cherry
+[01May2025 02:16:58.077] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_birch
+[01May2025 02:16:58.078] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_birch
+[01May2025 02:16:58.079] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_oak
+[01May2025 02:16:58.079] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_spruce
+[01May2025 02:16:58.080] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_oak
+[01May2025 02:16:58.080] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_dark_oak
+[01May2025 02:16:58.081] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_desert
+[01May2025 02:16:58.081] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_oak
+[01May2025 02:16:58.081] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_cherry
+[01May2025 02:16:58.082] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_dark_oak
+[01May2025 02:16:58.083] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_birch
+[01May2025 02:16:58.083] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_desert
+[01May2025 02:16:58.083] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_spruce
+[01May2025 02:16:58.084] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_swamp
+[01May2025 02:16:58.084] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_mangrove
+[01May2025 02:16:58.085] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_oak
+[01May2025 02:16:58.085] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_spruce
+[01May2025 02:16:58.085] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_desert
+[01May2025 02:16:58.086] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_jungle
+[01May2025 02:16:58.086] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_acacia
+[01May2025 02:16:58.087] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_acacia
+[01May2025 02:16:58.087] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_jungle
+[01May2025 02:16:58.087] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_spruce
+[01May2025 02:16:58.088] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_oak
+[01May2025 02:16:58.097] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_acacia
+[01May2025 02:16:58.098] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_cherry
+[01May2025 02:16:58.098] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_swamp
+[01May2025 02:16:58.099] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_mangrove
+[01May2025 02:16:58.099] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_mangrove
+[01May2025 02:16:58.100] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_oak
+[01May2025 02:16:58.106] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_acacia
+[01May2025 02:16:58.107] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_spruce
+[01May2025 02:16:58.107] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_swamp
+[01May2025 02:16:58.108] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_acacia
+[01May2025 02:16:58.108] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_cherry
+[01May2025 02:16:58.108] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_dark_oak
+[01May2025 02:16:58.109] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_swamp
+[01May2025 02:16:58.110] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_mangrove
+[01May2025 02:16:58.110] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_oak
+[01May2025 02:16:58.117] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_cherry
+[01May2025 02:16:58.131] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_jungle
+[01May2025 02:16:58.131] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_dark_oak
+[01May2025 02:16:58.131] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_acacia
+[01May2025 02:16:58.132] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_birch
+[01May2025 02:16:58.132] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_cherry
+[01May2025 02:16:58.141] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_spruce
+[01May2025 02:16:58.141] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_oak
+[01May2025 02:16:58.142] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_spruce
+[01May2025 02:16:58.142] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_mangrove
+[01May2025 02:16:58.142] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_swamp
+[01May2025 02:16:58.143] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_jungle
+[01May2025 02:16:58.143] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_jungle
+[01May2025 02:16:58.151] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_acacia
+[01May2025 02:16:58.152] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_acacia
+[01May2025 02:16:58.153] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_desert
+[01May2025 02:16:58.154] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_desert
+[01May2025 02:16:58.154] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_mangrove
+[01May2025 02:16:58.154] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_jungle
+[01May2025 02:16:58.155] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_birch
+[01May2025 02:16:58.155] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_desert
+[01May2025 02:16:58.155] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_jungle
+[01May2025 02:16:58.157] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_jungle
+[01May2025 02:16:58.157] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_cherry
+[01May2025 02:16:58.157] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_desert
+[01May2025 02:16:58.158] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_swamp
+[01May2025 02:16:58.158] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_mangrove
+[01May2025 02:16:58.159] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_birch
+[01May2025 02:16:58.160] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_acacia
+[01May2025 02:16:58.160] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_oak
+[01May2025 02:16:58.160] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_birch
+[01May2025 02:16:58.161] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_cherry
+[01May2025 02:17:02.271] [Worker-Main-20/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/pillar1 is being run through DFU (hash 72e23966bbaa406502050a643072eb0da996fa9c7e9bfb079e9043b1c8841fe0), this will cause launch time delays
+[01May2025 02:17:08.473] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_birch
+[01May2025 02:17:08.486] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_dark_oak
+[01May2025 02:17:08.498] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_jungle
+[01May2025 02:17:08.511] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[01May2025 02:17:08.519] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_oak
+[01May2025 02:17:08.520] [Worker-Main-29/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01May2025 02:17:08.520] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
+[01May2025 02:17:12.513] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/bend1 is being run through DFU (hash dfd55ed6fb8dbad706164993e7e1aab1fc814fe23a2f7be8b621c994b4118f0f), this will cause launch time delays
+[01May2025 02:17:12.559] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/t2 is being run through DFU (hash 90cd79756951abebab3b7d26a66d78c13a7e2ff1c79b2c7c2cf3dbdb47749ae0), this will cause launch time delays
+[01May2025 02:17:12.568] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/t1 is being run through DFU (hash b9cac668944bcf60fe9691756ee628f5e82f7f2d81f39fc6d2498dea8fe9e89d), this will cause launch time delays
+[01May2025 02:17:12.570] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/straight2 is being run through DFU (hash bdb2e3e0151dbfe85370a027fdb9f291780d0fc92627f13f612910548cbc234f), this will cause launch time delays
+[01May2025 02:17:12.581] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/bend2 is being run through DFU (hash 84e95bfde4d28347074b278cfacb2be185c2fc11a1afb1cfb8e6c356c9bb66ba), this will cause launch time delays
+[01May2025 02:17:12.668] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/straight1 is being run through DFU (hash 4a018179f4091762355585a516df34c84496d4f75f78d5877f224bc666545ffa), this will cause launch time delays
+[01May2025 02:17:12.715] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/fortified/terminators/term3 is being run through DFU (hash 815d826fcc91aabfd7fabd8e9fdf252504627fb7674055b8ded6680715fa6806), this will cause launch time delays
+[01May2025 02:17:12.724] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/inter1 is being run through DFU (hash 4e8fc473da2220f2e0fb44202ebdf37c63d78f44f4c52f84fc357bb5e72190e4), this will cause launch time delays
+[01May2025 02:17:12.726] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/fortified/terminators/term2 is being run through DFU (hash 42d9ab04a9e2740e7009c385bd8ce365082f20271eb28e3e32b91db2c9feca16), this will cause launch time delays
+[01May2025 02:17:12.729] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/intersection_big is being run through DFU (hash e1d39000b62f7e92df288f95bf6da184026d6b5cb67c6adef7380d2e9f5290c7), this will cause launch time delays
+[01May2025 02:17:13.089] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/fortified/terminators/term1 is being run through DFU (hash 4e17199e1fd91b3aeeb258eb757ab84cc78d7cac13c8a0d97456cee903cf8fa3), this will cause launch time delays
+[01May2025 02:17:20.606] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_3
+[01May2025 02:17:22.315] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-536}
+[01May2025 02:17:22.315] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=27, z=-536}
+[01May2025 02:17:22.316] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=27, z=-536}
+[01May2025 02:17:22.316] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=28, z=-536}
+[01May2025 02:17:22.316] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=28, z=-536}
+[01May2025 02:17:22.316] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=28, z=-536}
+[01May2025 02:17:22.482] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
+[01May2025 02:17:26.409] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[01May2025 02:17:28.042] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_6b
+[01May2025 02:17:28.149] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[01May2025 02:17:28.813] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_camp/illager_camp_event_5
+[01May2025 02:17:28.814] [Worker-Main-29/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01May2025 02:17:28.814] [Worker-Main-29/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01May2025 02:17:28.814] [Worker-Main-29/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01May2025 02:17:28.814] [Worker-Main-29/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01May2025 02:17:29.504] [Worker-Main-12/DEBUG] [ModernFix/]: Structure structory:entities/villager/bandit is being run through DFU (hash 8f054d962e30627651c058fc70da8dd7b019d885e7eacc1b40b0f33f6134ff05), this will cause launch time delays
+[01May2025 02:17:30.453] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-629}
+[01May2025 02:17:30.453] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-629}
+[01May2025 02:17:30.454] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-629}
+[01May2025 02:17:30.454] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-624}
+[01May2025 02:17:30.454] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-624}
+[01May2025 02:17:30.454] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-624}
+[01May2025 02:17:30.455] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-629}
+[01May2025 02:17:30.455] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-629}
+[01May2025 02:17:30.455] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-624}
+[01May2025 02:17:30.455] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-624}
+[01May2025 02:17:32.189] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-630}
+[01May2025 02:17:32.189] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-631}
+[01May2025 02:17:32.189] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-631}
+[01May2025 02:17:32.190] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-629}
+[01May2025 02:17:32.190] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-626}
+[01May2025 02:17:32.190] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-628}
+[01May2025 02:17:32.190] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=26, z=-626}
+[01May2025 02:17:32.190] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-623}
+[01May2025 02:17:32.191] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-622}
+[01May2025 02:17:32.191] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-623}
+[01May2025 02:17:32.191] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=26, z=-622}
+[01May2025 02:17:32.191] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-622}
+[01May2025 02:17:32.191] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-620}
+[01May2025 02:17:32.191] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-620}
+[01May2025 02:17:32.208] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-615}
+[01May2025 02:17:32.209] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-609}
+[01May2025 02:17:32.209] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-366, y=26, z=-609}
+[01May2025 02:17:32.209] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-366, y=26, z=-613}
+[01May2025 02:17:32.209] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-613}
+[01May2025 02:17:32.210] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-613}
+[01May2025 02:17:32.210] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-614}
+[01May2025 02:17:32.210] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-615}
+[01May2025 02:17:32.210] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-616}
+[01May2025 02:17:32.210] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-615}
+[01May2025 02:17:32.211] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-614}
+[01May2025 02:17:32.211] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-607}
+[01May2025 02:17:32.212] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-606}
+[01May2025 02:17:32.212] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-606}
+[01May2025 02:17:33.295] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-545}
+[01May2025 02:17:33.296] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-541}
+[01May2025 02:17:33.347] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-257, y=27, z=-591}
+[01May2025 02:17:33.348] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=27, z=-591}
+[01May2025 02:17:33.364] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-586}
+[01May2025 02:17:38.503] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-316, y=32, z=-583}
+[01May2025 02:17:38.503] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-316, y=32, z=-586}
+[01May2025 02:17:38.503] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-582}
+[01May2025 02:17:38.504] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-587}
+[01May2025 02:17:38.504] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-582}
+[01May2025 02:17:38.504] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-587}
+[01May2025 02:17:39.003] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[01May2025 02:17:39.004] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[01May2025 02:17:39.004] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[01May2025 02:17:39.004] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[01May2025 02:17:41.903] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_5b
+[01May2025 02:18:24.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 02:18:24.271] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 02:18:56.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Distant Dreamer]
