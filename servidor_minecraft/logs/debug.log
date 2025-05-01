@@ -3934,3 +3934,176 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01May2025 01:54:20.171] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center3
 [01May2025 01:54:20.180] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center3
 [01May2025 01:55:14.153] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool_small1
+[01May2025 01:58:24.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 01:58:24.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 01:58:33.485] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/arch1
+[01May2025 01:58:38.752] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_2
+[01May2025 01:58:43.890] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:witch_hut/witch_hut_1
+[01May2025 01:58:48.583] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:small_yacht/small_yacht_0
+[01May2025 01:58:48.609] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_0
+[01May2025 01:58:48.625] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:corsair_corvette/corsair_corvette_0
+[01May2025 01:58:48.662] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_0
+[01May2025 01:58:49.323] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:weaponsmith_1
+[01May2025 01:58:49.331] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:farm_3
+[01May2025 01:58:49.340] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:farm_2
+[01May2025 01:58:49.346] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:fletcher_1
+[01May2025 01:58:49.352] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:cartographer_1
+[01May2025 01:58:49.405] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:bridge_1
+[01May2025 01:58:51.455] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin2
+[01May2025 01:58:52.303] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin1
+[01May2025 01:58:56.579] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:firewatch_tower/firewatch_birch
+[01May2025 01:58:56.594] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:firewatch_tower/firewatch_cherry
+[01May2025 01:58:56.613] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:firewatch_tower/firewatch_dark_oak
+[01May2025 01:58:56.628] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:firewatch_tower/firewatch_forest
+[01May2025 01:58:56.642] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:firewatch_tower/firewatch_jungle
+[01May2025 01:58:56.658] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:firewatch_tower/firewatch_mangrove
+[01May2025 01:58:56.670] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:firewatch_tower/firewatch_savanna
+[01May2025 01:58:56.681] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:firewatch_tower/firewatch_swamp
+[01May2025 01:58:56.692] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:firewatch_tower/firewatch_taiga
+[01May2025 01:59:02.217] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[01May2025 01:59:02.261] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[01May2025 01:59:02.271] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_17
+[01May2025 01:59:02.970] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/frog_statue_small
+[01May2025 01:59:40.361] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_trap_3
+[01May2025 01:59:40.374] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_1
+[01May2025 01:59:42.798] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/tunnel
+[01May2025 01:59:53.959] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[01May2025 02:00:18.627] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:illusioner_shack/shack/shack
+[01May2025 02:00:18.628] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:illusioner_shack/feature/campfire
+[01May2025 02:00:18.628] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:illusioner_shack/feature/wolf_fence1
+[01May2025 02:00:18.629] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:illusioner_shack/shack/basement
+[01May2025 02:00:18.629] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:illusioner_shack/entity/wolf
+[01May2025 02:00:18.629] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:illusioner_shack/entity/villager
+[01May2025 02:00:18.639] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_3
+[01May2025 02:00:34.976] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[01May2025 02:00:34.977] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[01May2025 02:00:34.977] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[01May2025 02:00:34.977] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[01May2025 02:00:40.116] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[01May2025 02:00:40.116] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[01May2025 02:00:40.117] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[01May2025 02:00:40.117] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[01May2025 02:00:40.607] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[01May2025 02:00:40.608] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[01May2025 02:00:40.608] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[01May2025 02:00:44.345] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[01May2025 02:00:44.346] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[01May2025 02:00:44.346] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[01May2025 02:00:44.346] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[01May2025 02:00:44.793] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[01May2025 02:00:44.794] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[01May2025 02:00:44.794] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[01May2025 02:00:44.794] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[01May2025 02:00:45.401] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[01May2025 02:00:45.402] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[01May2025 02:00:45.402] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[01May2025 02:00:45.403] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[01May2025 02:03:24.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 02:03:24.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 02:04:00.466] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[01May2025 02:04:00.467] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[01May2025 02:04:00.467] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[01May2025 02:04:00.467] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[01May2025 02:04:00.853] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[01May2025 02:04:00.854] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[01May2025 02:04:00.854] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[01May2025 02:04:00.855] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[01May2025 02:04:03.776] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_acacia
+[01May2025 02:04:03.789] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_birch
+[01May2025 02:04:03.802] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_cherry
+[01May2025 02:04:03.816] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_dark_oak
+[01May2025 02:04:03.828] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_desert
+[01May2025 02:04:03.840] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_jungle
+[01May2025 02:04:03.854] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_mangrove
+[01May2025 02:04:03.866] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_oak
+[01May2025 02:04:03.876] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_spruce
+[01May2025 02:04:03.887] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_swamp
+[01May2025 02:04:04.508] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[01May2025 02:04:07.684] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[01May2025 02:04:07.685] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[01May2025 02:04:07.690] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[01May2025 02:04:07.690] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[01May2025 02:04:10.036] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[01May2025 02:04:10.037] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[01May2025 02:04:10.037] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[01May2025 02:04:10.038] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[01May2025 02:04:12.197] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[01May2025 02:04:12.198] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[01May2025 02:04:12.198] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[01May2025 02:04:12.198] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[01May2025 02:04:14.721] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[01May2025 02:04:14.721] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[01May2025 02:04:14.722] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[01May2025 02:04:14.722] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[01May2025 02:04:15.953] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[01May2025 02:04:15.976] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[01May2025 02:04:15.976] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[01May2025 02:04:15.976] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[01May2025 02:04:15.977] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[01May2025 02:04:17.362] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:illusioner_shack/feature/wolf_fence2
+[01May2025 02:04:18.870] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/camp/barrels
+[01May2025 02:04:18.909] [Worker-Main-11/DEBUG] [ModernFix/]: Structure structory:outcast_villager/settlement_large is being run through DFU (hash 3e976dfd920477900ab9db8bc43cf15421f7540811822d050f285d89755c60c3), this will cause launch time delays
+[01May2025 02:04:18.909] [Worker-Main-11/INFO] [ModernFix/]: Instantiating Mojang DFU
+[01May2025 02:04:20.309] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/desert/copper_house2
+[01May2025 02:04:20.320] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/graveyard2
+[01May2025 02:04:20.405] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor/large1
+[01May2025 02:04:20.422] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/which_witch_is_which
+[01May2025 02:04:20.983] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[01May2025 02:04:21.897] [Worker-Main-29/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/ruin4 is being run through DFU (hash a939c6cd2d850996d47992a00cdb546afac0a87854974aa2a2134a3a71bf268c), this will cause launch time delays
+[01May2025 02:04:22.209] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/staircase1
+[01May2025 02:04:24.732] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[01May2025 02:04:24.733] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[01May2025 02:04:24.733] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[01May2025 02:04:24.733] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[01May2025 02:04:27.647] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[01May2025 02:04:27.648] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[01May2025 02:04:27.648] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[01May2025 02:04:27.648] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[01May2025 02:04:29.093] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[01May2025 02:04:29.101] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[01May2025 02:04:29.102] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[01May2025 02:04:29.102] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[01May2025 02:04:29.102] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[01May2025 02:04:29.126] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[01May2025 02:04:29.126] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[01May2025 02:04:29.127] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[01May2025 02:04:29.127] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[01May2025 02:04:29.158] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[01May2025 02:04:29.159] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[01May2025 02:04:29.159] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[01May2025 02:04:29.159] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[01May2025 02:04:29.462] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[01May2025 02:04:29.463] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[01May2025 02:04:29.463] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[01May2025 02:04:29.463] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[01May2025 02:04:29.554] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[01May2025 02:04:29.555] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[01May2025 02:04:29.555] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[01May2025 02:04:29.555] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[01May2025 02:04:29.567] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[01May2025 02:04:29.568] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[01May2025 02:04:29.568] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[01May2025 02:04:29.578] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[01May2025 02:04:29.579] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[01May2025 02:04:29.579] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[01May2025 02:04:29.579] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[01May2025 02:04:29.601] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[01May2025 02:04:29.602] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[01May2025 02:04:29.602] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[01May2025 02:04:29.602] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[01May2025 02:04:29.665] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[01May2025 02:04:29.666] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[01May2025 02:04:29.666] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[01May2025 02:04:29.666] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[01May2025 02:04:29.699] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[01May2025 02:04:29.700] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[01May2025 02:04:29.700] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[01May2025 02:04:29.700] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[01May2025 02:04:33.690] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center1
+[01May2025 02:04:33.698] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center1
+[01May2025 02:06:28.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay was slain by Cave Spider
+[01May2025 02:06:29.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1295, y=2, z=1459}
+[01May2025 02:06:44.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay was slain by Cave Spider
+[01May2025 02:07:14.795] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[01May2025 02:08:24.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 02:08:24.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
