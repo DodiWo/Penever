@@ -3183,3 +3183,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02May2025 01:13:46.851] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@1e99681a for service interface com.blamejared.clumps.platform.IPlatformHelper
 [02May2025 01:14:27.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02May2025 01:14:27.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 01:19:27.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 01:19:27.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 01:21:41.300] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 lost connection: Disconnected
+[02May2025 01:21:41.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 left the game
+[02May2025 01:24:27.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 01:24:27.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

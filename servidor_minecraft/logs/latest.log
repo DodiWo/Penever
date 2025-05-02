@@ -266,3 +266,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02May2025 01:12:23.199] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1911, y=65, z=881} BlockPos{x=1911, y=63, z=880}
 [02May2025 01:12:48.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1881, y=64, z=906} BlockPos{x=1882, y=63, z=906}
 [02May2025 01:13:13.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [A Seedy Place]
+[02May2025 01:21:41.300] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 lost connection: Disconnected
+[02May2025 01:21:41.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 left the game
