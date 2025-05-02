@@ -268,3 +268,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02May2025 01:13:13.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [A Seedy Place]
 [02May2025 01:21:41.300] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 lost connection: Disconnected
 [02May2025 01:21:41.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 left the game
+[02May2025 01:58:04.793] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DodiWo[/100.115.131.57:57004] logged in with entity id 31285 at (1758.9051820736452, 66.5625, 835.1412634236556)
+[02May2025 01:58:04.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo joined the game
+[02May2025 02:07:14.711] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bhp240[/100.72.171.116:19903] logged in with entity id 38654 at (1881.787891109526, 65.0, 847.3000000119209)
+[02May2025 02:07:14.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 joined the game
+[02May2025 02:12:53.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [What a Deal!]
+[02May2025 02:16:07.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [Enchanter]
+[02May2025 02:19:11.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [Radioactive]
+[02May2025 02:19:14.882] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/46541, l='ServerLevel[world]', x=221.39, y=43.00, z=153.62] died: Toxic Slime fell from a high place
+[02May2025 02:19:24.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2380ms or 47 ticks behind
+[02May2025 02:22:48.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2835ms or 56 ticks behind
+[02May2025 02:22:48.923] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=530, y=96, z=201} but found not block entity block Block{minecraft:nether_bricks} at location
+[02May2025 02:22:48.923] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:nether_bricks} but failed at location BlockPos{x=530, y=96, z=201}
+[02May2025 02:24:43.557] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46498, l='ServerLevel[world]', x=232.74, y=31.88, z=137.23] died, message: 'Villager tried to swim in lava'
+[02May2025 02:24:55.862] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/58452, l='ServerLevel[world]', x=179.06, y=33.00, z=101.13] died: Toxic Slime fell from a high place
+[02May2025 02:25:24.765] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/59493, l='ServerLevel[world]', x=235.73, y=36.07, z=111.68] died: Toxic Slime was slain by Iron Golem
+[02May2025 02:26:10.556] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/59492, l='ServerLevel[world]', x=243.25, y=37.01, z=107.61] died: Toxic Slime was slain by Iron Golem
+[02May2025 02:27:40.217] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/62608, l='ServerLevel[world]', x=195.45, y=33.28, z=125.40] died, message: 'Nitwit tried to swim in lava'
+[02May2025 02:29:00.716] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/62890, l='ServerLevel[world]', x=195.17, y=34.00, z=127.05] died: Toxic Slime fell from a high place
