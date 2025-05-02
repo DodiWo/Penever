@@ -424,3 +424,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02May2025 04:11:07.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [02May2025 04:13:13.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 lost connection: Disconnected
 [02May2025 04:13:13.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 left the game
+[02May2025 04:22:04.849] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo lost connection: Disconnected
+[02May2025 04:22:04.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo left the game
+[02May2025 04:22:13.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02May2025 04:22:13.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02May2025 04:22:13.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02May2025 04:22:13.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02May2025 04:22:14.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02May2025 04:22:14.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02May2025 04:22:15.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02May2025 04:22:15.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[02May2025 04:22:15.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02May2025 04:22:15.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02May2025 04:22:15.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02May2025 04:22:15.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[02May2025 04:22:15.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
