@@ -421,3 +421,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02May2025 03:03:51.167] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/96051, l='ServerLevel[world]', x=241.92, y=36.55, z=129.26] died: Toxic Slime was slain by Iron Golem
 [02May2025 03:04:30.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo moved wrongly!
 [02May2025 03:58:20.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2711ms or 54 ticks behind
+[02May2025 04:11:07.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02May2025 04:13:13.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 lost connection: Disconnected
+[02May2025 04:13:13.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 left the game
