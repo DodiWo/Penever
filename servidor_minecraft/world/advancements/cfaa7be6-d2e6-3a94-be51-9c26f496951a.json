@@ -1049,6 +1049,7 @@
       "mutton": "2025-04-30 00:42:53 +0000",
       "bread": "2025-05-01 02:59:11 +0000",
       "rotten_flesh": "2025-05-01 02:33:23 +0000",
+      "suspicious_stew": "2025-05-02 03:18:31 +0000",
       "glow_berries": "2025-05-01 16:37:38 +0000",
       "golden_carrot": "2025-05-02 02:48:46 +0000",
       "cod": "2025-05-01 02:54:06 +0000"
@@ -2575,6 +2576,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-02 03:18:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-05-02 02:44:47 +0000"
@@ -2815,6 +2822,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-02 03:18:31 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/quartz": {
     "criteria": {
       "has_quartz": "2025-05-02 02:50:39 +0000"
@@ -2908,6 +2921,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-05-02 02:42:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-05-02 03:18:31 +0000"
     },
     "done": true
   },

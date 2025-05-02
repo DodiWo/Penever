@@ -387,3 +387,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02May2025 02:59:08.059] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/93623, l='ServerLevel[world]', x=372.66, y=31.00, z=295.99] died: Toxic Slime was slain by bhp240
 [02May2025 02:59:30.660] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/93913, l='ServerLevel[world]', x=382.82, y=44.00, z=313.30] died: Toxic Slime fell from a high place
 [02May2025 02:59:41.705] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/46682, l='ServerLevel[world]', x=367.29, y=44.37, z=286.08] died: Pipeline Sentry was slain by bhp240
+[02May2025 03:00:12.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=333, y=42, z=287} BlockPos{x=332, y=42, z=287}
+[02May2025 03:00:12.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=333, y=42, z=287} BlockPos{x=332, y=42, z=287}
+[02May2025 03:00:12.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=333, y=42, z=287} BlockPos{x=332, y=42, z=287}
+[02May2025 03:00:12.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=333, y=42, z=287} BlockPos{x=332, y=42, z=287}
+[02May2025 03:00:12.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=333, y=42, z=287} BlockPos{x=332, y=42, z=287}
+[02May2025 03:00:12.313] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=333, y=42, z=287} BlockPos{x=332, y=42, z=287}
+[02May2025 03:00:12.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=333, y=42, z=287} BlockPos{x=332, y=42, z=287}
+[02May2025 03:00:12.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=333, y=42, z=287} BlockPos{x=332, y=42, z=287}
+[02May2025 03:00:16.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=326, y=46, z=286} BlockPos{x=324, y=46, z=284}
+[02May2025 03:00:16.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=326, y=46, z=286} BlockPos{x=324, y=46, z=284}
+[02May2025 03:00:16.762] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=326, y=46, z=286} BlockPos{x=324, y=46, z=284}
+[02May2025 03:00:16.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=326, y=46, z=286} BlockPos{x=324, y=46, z=284}
+[02May2025 03:00:16.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=326, y=46, z=286} BlockPos{x=324, y=46, z=284}
+[02May2025 03:01:09.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [Who is Cutting Onions?]
+[02May2025 03:01:29.317] [Worker-Main-59/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=205, y=51, z=204}
+[02May2025 03:01:29.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8246ms or 164 ticks behind
+[02May2025 03:01:44.062] [Worker-Main-95/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02May2025 03:01:44.062] [Worker-Main-95/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02May2025 03:01:44.062] [Worker-Main-95/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02May2025 03:01:44.062] [Worker-Main-95/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02May2025 03:01:49.730] [Worker-Main-59/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02May2025 03:01:49.730] [Worker-Main-59/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02May2025 03:01:49.731] [Worker-Main-59/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02May2025 03:01:49.731] [Worker-Main-59/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02May2025 03:02:05.923] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2450ms or 49 ticks behind
+[02May2025 03:02:17.762] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/95682, l='ServerLevel[world]', x=325.26, y=46.00, z=315.82] died: Toxic Slime fell from a high place
+[02May2025 03:02:22.158] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/95123, l='ServerLevel[world]', x=307.04, y=37.00, z=298.74] died: Toxic Slime was slain by bhp240
+[02May2025 03:02:38.807] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/95884, l='ServerLevel[world]', x=270.98, y=36.00, z=323.11] died: Toxic Slime fell from a high place
+[02May2025 03:02:57.964] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/95243, l='ServerLevel[world]', x=280.96, y=32.00, z=179.34] died: Toxic Slime fell from a high place
+[02May2025 03:03:35.160] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/96212, l='ServerLevel[world]', x=237.13, y=31.83, z=135.36] died: Toxic Slime was slain by Iron Golem
+[02May2025 03:03:39.212] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/96052, l='ServerLevel[world]', x=248.26, y=31.13, z=131.86] died: Toxic Slime was slain by Iron Golem
+[02May2025 03:03:51.167] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/96051, l='ServerLevel[world]', x=241.92, y=36.55, z=129.26] died: Toxic Slime was slain by Iron Golem
+[02May2025 03:04:30.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo moved wrongly!
