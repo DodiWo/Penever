@@ -2059,249 +2059,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 04:01:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 04:01:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 04:01:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 04:01:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 04:01:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 04:01:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 04:01:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 04:01:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 04:01:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 04:01:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 04:01:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 04:01:27 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/food/fried_egg_from_smoking": {
-    "criteria": {
-      "fried_egg": "2025-05-01 03:29:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2025-05-01 02:57:16 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/food/cake": {
-    "criteria": {
-      "has_the_recipe": "2025-05-01 03:29:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-05-01 03:29:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2025-05-01 02:57:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-01 03:32:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
-    "criteria": {
-      "has_mutton": "2025-05-01 02:58:46 +0000"
-    },
-    "done": true
-  },
-  "friendsandfoes:adventure/the_magicians": {
-    "criteria": {
-      "killed_illusioner": "2025-05-01 03:42:33 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-01 03:32:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-05-01 03:13:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-01 03:32:48 +0000"
-    },
-    "done": true
-  },
-  "1_splatus:ultris/illusioner2": {
-    "criteria": {
-      "c1": "2025-05-01 03:39:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2025-05-01 02:58:46 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/food/cooked_bass": {
-    "criteria": {
-      "has_bass": "2025-05-01 03:44:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-05-01 02:57:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-05-01 03:08:19 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
-    "criteria": {
-      "fried_egg": "2025-05-01 03:29:09 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-01 03:34:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-05-01 02:23:25 +0000"
-    },
-    "done": true
-  },
-  "1_splatus:ultris/illusioner": {
-    "criteria": {
-      "c1": "2025-05-01 02:58:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-05-01 03:11:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-05-01 03:13:11 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
-    "criteria": {
-      "has_white_wool": "2025-05-01 02:58:46 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/baked_cod_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-01 03:29:09 +0000"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
-    "criteria": {
-      "requirement": "2025-05-01 03:06:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2025-05-01 02:57:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_carpet": {
-    "criteria": {
-      "has_white_wool": "2025-05-01 02:58:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-01 03:32:48 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fried_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-01 03:29:09 +0000"
     },
     "done": true
   },
@@ -2311,39 +2071,45 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/horse": {
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-01 02:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2025-05-01 02:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-05-01 02:57:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+  "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
-      "has_smooth_sandstone": "2025-05-01 03:13:11 +0000"
+      "has_leather": "2025-05-01 02:57:16 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
+  "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
-      "has_mutton": "2025-05-01 03:00:10 +0000"
+      "has_leather": "2025-05-01 02:57:16 +0000"
     },
     "done": true
   },
-  "friendsandfoes:adventure/kill_illusioner": {
+  "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
-      "killed_illusioner": "2025-05-01 03:42:33 +0000"
+      "has_leather": "2025-05-01 02:57:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton": {
+  "travelersbackpack:recipes/misc/horse": {
     "criteria": {
-      "has_mutton": "2025-05-01 02:58:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-01 03:32:48 +0000"
+      "has_leather": "2025-05-01 02:57:16 +0000"
     },
     "done": true
   },
@@ -2353,9 +2119,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
+  "minecraft:recipes/decorations/item_frame": {
     "criteria": {
-      "has_obsidian": "2025-05-01 03:32:46 +0000"
+      "has_leather": "2025-05-01 02:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-01 02:57:16 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/illusioner": {
+    "criteria": {
+      "c1": "2025-05-01 02:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-05-01 02:58:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-05-01 02:58:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-05-01 02:58:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-05-01 02:58:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-05-01 02:58:46 +0000"
     },
     "done": true
   },
@@ -2371,42 +2179,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-05-01 02:57:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-05-01 03:13:11 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/enderman": {
-    "criteria": {
-      "has_ender_pearl": "2025-05-01 02:46:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-01 03:32:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-05-01 03:32:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-05-01 03:34:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-05-01 02:58:46 +0000"
@@ -2419,15 +2191,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
+  "minecraft:recipes/decorations/white_bed": {
     "criteria": {
-      "has_bow": "2025-05-01 03:06:17 +0000"
+      "has_white_wool": "2025-05-01 02:58:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/ender_eye": {
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
-      "has_the_recipe": "2025-05-01 02:46:19 +0000"
+      "has_mutton": "2025-05-01 03:00:10 +0000"
     },
     "done": true
   },
@@ -2443,21 +2215,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_glazed_terracotta": {
+  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
     "criteria": {
-      "has_black_terracotta": "2025-05-01 03:16:44 +0000"
+      "requirement": "2025-05-01 03:06:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_boots": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "has_leather": "2025-05-01 02:57:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_bed": {
-    "criteria": {
-      "has_white_wool": "2025-05-01 02:58:46 +0000"
+      "has_bow": "2025-05-01 03:06:17 +0000"
     },
     "done": true
   },
@@ -2467,9 +2233,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "has_obsidian": "2025-05-01 03:32:46 +0000"
+      "shot_arrow": "2025-05-01 03:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-01 03:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-05-01 03:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-05-01 03:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-05-01 03:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-05-01 03:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-05-01 03:16:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-05-01 03:29:09 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-05-01 03:29:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-01 03:29:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-05-01 03:29:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 03:29:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 03:29:09 +0000"
     },
     "done": true
   },
@@ -2479,9 +2317,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
+  "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
-      "has_any_ingredient": "2025-05-01 03:34:32 +0000"
+      "fried_egg": "2025-05-01 03:29:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-05-01 03:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-01 03:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-01 03:32:46 +0000"
     },
     "done": true
   },
@@ -2491,11 +2347,113 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg": {
+  "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
-      "fried_egg": "2025-05-01 03:29:09 +0000"
+      "has_stone_bricks": "2025-05-01 03:32:48 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-01 03:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-01 03:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-01 03:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-01 03:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-01 03:32:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 03:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-01 03:34:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 03:34:32 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/illusioner2": {
+    "criteria": {
+      "c1": "2025-05-01 03:39:03 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2025-05-01 03:42:33 +0000"
+    },
+    "done": false
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-05-01 03:42:33 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_bass": {
+    "criteria": {
+      "has_bass": "2025-05-01 03:44:13 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-05-05 19:52:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-05 19:52:29 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-05-05 19:52:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-05 19:52:29 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:toxic_heap": "2025-05-05 19:52:29 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
