@@ -264,3 +264,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05May2025 19:52:29.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [We Need to Go Deeper]
 [05May2025 19:52:29.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Radioactive]
 [05May2025 19:52:29.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[05May2025 19:58:50.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [What a Deal!]
+[05May2025 20:14:02.243] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[05May2025 20:14:02.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[05May2025 20:16:27.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05May2025 20:16:27.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05May2025 20:16:27.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05May2025 20:16:27.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05May2025 20:16:27.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05May2025 20:16:28.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[05May2025 20:16:28.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05May2025 20:16:28.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05May2025 20:16:28.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05May2025 20:16:28.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[05May2025 20:16:28.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05May2025 20:16:28.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05May2025 20:16:28.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
