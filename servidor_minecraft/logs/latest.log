@@ -7,3 +7,7 @@
 [16May2025 00:26:14.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomasito_a joined the game
 [16May2025 00:30:03.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay moved too quickly! 9.70041099517735,0.8458160818580538,3.1260513410427393
 [16May2025 00:39:42.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[16May2025 00:40:54.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomasito_a lost connection: Disconnected
+[16May2025 00:40:54.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomasito_a left the game
+[16May2025 00:42:27.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [Sneak 100]
+[16May2025 00:49:59.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has completed the challenge [It Spreads]

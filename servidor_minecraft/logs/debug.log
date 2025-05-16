@@ -3626,3 +3626,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16May2025 00:35:47.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16May2025 00:35:47.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16May2025 00:39:42.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[16May2025 00:40:49.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 00:40:49.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 00:40:54.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomasito_a lost connection: Disconnected
+[16May2025 00:40:54.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomasito_a left the game
+[16May2025 00:42:27.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [Sneak 100]
+[16May2025 00:45:49.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 00:45:49.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 00:49:59.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has completed the challenge [It Spreads]
+[16May2025 00:50:49.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 00:50:49.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
