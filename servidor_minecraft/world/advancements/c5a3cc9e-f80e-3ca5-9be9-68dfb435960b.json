@@ -73,6 +73,7 @@
       "minecraft:lukewarm_ocean": "2025-04-30 00:53:50 +0000",
       "minecraft:river": "2025-04-30 00:49:25 +0000",
       "minecraft:stony_shore": "2025-04-30 00:04:16 +0000",
+      "minecraft:dripstone_caves": "2025-05-16 00:52:43 +0000",
       "minecraft:grove": "2025-04-30 00:07:55 +0000",
       "minecraft:cold_ocean": "2025-05-01 16:06:44 +0000",
       "minecraft:forest": "2025-05-01 03:02:00 +0000",
@@ -931,6 +932,7 @@
       "minecraft:spider": "2025-05-01 03:12:51 +0000",
       "minecraft:creeper": "2025-05-01 16:50:41 +0000",
       "minecraft:slime": "2025-05-01 17:53:39 +0000",
+      "minecraft:evoker": "2025-05-16 01:06:32 +0000",
       "minecraft:phantom": "2025-05-01 03:52:47 +0000",
       "minecraft:witch": "2025-04-30 00:11:30 +0000",
       "minecraft:wither_skeleton": "2025-05-01 17:05:33 +0000",
@@ -1349,6 +1351,7 @@
   },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
+      "killed_evoker": "2025-05-16 01:06:32 +0000",
       "killed_illusioner": "2025-04-30 00:26:32 +0000"
     },
     "done": false
@@ -4119,6 +4122,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-05-16 01:08:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-05-16 01:08:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-05-16 00:22:38 +0000"
@@ -4137,9 +4152,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-05-16 01:08:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-05-16 00:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-05-16 01:08:58 +0000"
     },
     "done": true
   },
